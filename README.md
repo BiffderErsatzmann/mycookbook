@@ -1,0 +1,4 @@
+mycookbook
+==========
+
+my latex cookbook
